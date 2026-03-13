@@ -1,5 +1,6 @@
 # botfinance
 kolotusha daniil
+ind project 1
 
 # Фінансовий трекер
 
